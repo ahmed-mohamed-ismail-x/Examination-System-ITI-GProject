@@ -1,0 +1,52 @@
+
+After Creating Twitter Developer Account we got
+
+API Key 
+
+PSywBVaoZ04l9y7oW7xhC60mH
+
+
+API Key Secret
+
+6l6Lkss1YcAAgvhSv85279A2YBxNnwrzHJHcAmOhbAx9reLBmU
+
+Bearer Token
+
+AAAAAAAAAAAAAAAAAAAAAN6siQEAAAAAiT7x47EP%2BUvKukUpw5%2BXt9B3YkA%3DIxzZ8WwPR9JIy7gVtSxY38BYNnxI6F7aA3yccvj1V1V6RZ7UbA
+
+
+Access Token
+
+1582685625953800192-6HsP0RUjX21j0WGMEL46L27WWaE10e
+
+
+Access Token Secret
+
+I9KEU3eZ1dDDSOOD7kcDc76CuA2cgdUzoNGTDSmpLja9M
+
+
+API URL user
+
+https://api.twitter.com/1.1/users/show.json
+
+user id
+1582685625953800192
+
+screen name 
+
+AhmedMo19317201
+
+using Postman Program We got the API URl & the Authorization Header that will be used in PowerBI
+
+
+power bi url
+
+https://api.twitter.com/1.1/users/show.json?user_id=1582685625953800192
+
+
+power bi authorization header
+
+
+OAuth realm="ITI-App",oauth_consumer_key="PSywBVaoZ04l9y7oW7xhC60mH",oauth_token="1582685625953800192-6HsP0RUjX21j0WGMEL46L27WWaE10e",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1667325091",oauth_nonce="AHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAH",oauth_version="1.0",oauth_signature="u532%2FfGN4ABb%2Fxif9fC2PfcegEg%3D"
+
+
