@@ -1,0 +1,21 @@
+Topic(T_Id PK, T_Name, C_Id FK)
+
+Course(C_Id PK, C_Name, C_Duration)
+
+Instructor(Ins_Id PK, INs_Name, Salary, D_Id FK)
+
+Ins_Crs((Ins_Id FK, C_Id FK) PK)
+
+Department(D_Id PK, D_Name, Mgr_Hiredate, Mgr_Id FK)
+
+Student(S_Id PK, S_Fname, S_Lname, DOB, Address, Gender, D_Id FK)
+
+Stu_Crs((S_Id FK, C_Id Fk) PK, E_Date)
+
+Exam(E_Id PK, Date, C_Id FK)
+
+Question(Q_Id PK, Q_Text, Type, Q_Grade, Model_Ans, C_Id FK)
+
+Choices((Q_Id FK, Choice)PK)
+
+Take_Exam((E_Id FK, S_Id FK, Q_Id Fk) PK, St_Ans, SQ_Grade)

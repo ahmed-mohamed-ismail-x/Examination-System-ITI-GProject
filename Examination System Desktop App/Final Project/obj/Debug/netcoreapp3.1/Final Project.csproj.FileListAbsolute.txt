@@ -1,0 +1,201 @@
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\obj\Debug\netcoreapp3.1\Final_Project.Exam.resources
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\obj\Debug\netcoreapp3.1\Final_Project.InstructorHome.resources
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\obj\Debug\netcoreapp3.1\Final_Project.MainLogin.resources
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\obj\Debug\netcoreapp3.1\Final_Project.StudentHome.resources
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\obj\Debug\netcoreapp3.1\Final Project.csproj.GenerateResource.cache
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\bin\Debug\netcoreapp3.1\Final Project.exe
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\bin\Debug\netcoreapp3.1\Final Project.dll.config
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\bin\Debug\netcoreapp3.1\Final Project.deps.json
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\bin\Debug\netcoreapp3.1\Final Project.runtimeconfig.json
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\bin\Debug\netcoreapp3.1\Final Project.runtimeconfig.dev.json
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\bin\Debug\netcoreapp3.1\Final Project.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\bin\Debug\netcoreapp3.1\Final Project.pdb
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\obj\Debug\netcoreapp3.1\Final Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\obj\Debug\netcoreapp3.1\Final Project.AssemblyInfoInputs.cache
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\obj\Debug\netcoreapp3.1\Final Project.AssemblyInfo.cs
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\obj\Debug\netcoreapp3.1\Final Project.csproj.CoreCompileInputs.cache
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\obj\Debug\netcoreapp3.1\Final Project.csproj.CopyComplete
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\obj\Debug\netcoreapp3.1\Final Project.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\obj\Debug\netcoreapp3.1\Final Project.pdb
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\obj\Debug\netcoreapp3.1\Final Project.genruntimeconfig.cache
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\C#\Final Project\obj\Debug\netcoreapp3.1\Final_Project.Properties.Resources.resources
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Final Project.exe
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Final Project.dll.config
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Final Project.deps.json
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Final Project.runtimeconfig.json
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Final Project.runtimeconfig.dev.json
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Final Project.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Final Project.pdb
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final Project.csproj.AssemblyReference.cache
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final_Project.Exam.resources
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final_Project.InstructorHome.resources
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final_Project.MainLogin.resources
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final_Project.Properties.Resources.resources
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final_Project.StudentHome.resources
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final Project.csproj.GenerateResource.cache
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final Project.AssemblyInfoInputs.cache
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final Project.AssemblyInfo.cs
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final Project.csproj.CoreCompileInputs.cache
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final Project.csproj.CopyComplete
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final Project.dll
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final Project.pdb
+D:\ITP BI 2022\100 Graduation Project\ITI_Project_DB_Github\Windows-foms\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final Project.genruntimeconfig.cache
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final Project.dll
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final Project.pdb
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Final Project.exe
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Final Project.dll.config
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Final Project.deps.json
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Final Project.runtimeconfig.json
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Final Project.runtimeconfig.dev.json
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Final Project.dll
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Final Project.pdb
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final Project.csproj.AssemblyReference.cache
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final_Project.Exam.resources
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final_Project.InstructorHome.resources
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final_Project.MainLogin.resources
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final_Project.Properties.Resources.resources
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final_Project.StudentHome.resources
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final Project.csproj.GenerateResource.cache
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final Project.GeneratedMSBuildEditorConfig.editorconfig
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final Project.AssemblyInfoInputs.cache
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final Project.AssemblyInfo.cs
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final Project.csproj.CoreCompileInputs.cache
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final Project.csproj.CopyComplete
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final Project.genruntimeconfig.cache
+F:\iti\3 month - jul - 2022\Final project\compressed from ahmad ismail 34an agrab el application 2abl el mona24a\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final_Project.Add_new_student.resources
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Final Project.exe
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Final Project.dll.config
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Final Project.deps.json
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Final Project.runtimeconfig.json
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Final Project.runtimeconfig.dev.json
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Final Project.dll
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Final Project.pdb
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final Project.csproj.AssemblyReference.cache
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final_Project.Add_new_student.resources
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final_Project.Exam.resources
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final_Project.InstructorHome.resources
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final_Project.MainLogin.resources
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final_Project.Properties.Resources.resources
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final_Project.StudentHome.resources
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final Project.csproj.GenerateResource.cache
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final Project.AssemblyInfoInputs.cache
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final Project.AssemblyInfo.cs
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final Project.csproj.CopyComplete
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final Project.dll
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final Project.pdb
+C:\Users\ahmed\Downloads\adding results and signUp\Examination System Desktop App\Final Project\obj\Debug\netcoreapp3.1\Final Project.genruntimeconfig.cache

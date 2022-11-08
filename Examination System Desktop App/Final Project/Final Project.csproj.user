@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Add_new_student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Exam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
